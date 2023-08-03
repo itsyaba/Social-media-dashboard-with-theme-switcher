@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#facebook {
+          border-top: 6px solid hsl(208, 92%, 53%);
+}
+
+#twitter {
+          border-top: 6px solid hsl(203, 67%, 54%);
+}
+
+#youtube {
+          border-top: 6px solid hsl(348, 97%, 39%);
+}
+
+#instagram {
+          border-top: 6px solid hsl(37, 97%, 70%);
+}
